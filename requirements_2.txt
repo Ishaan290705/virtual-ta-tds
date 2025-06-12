@@ -1,0 +1,9 @@
+# Core Dependencies
+playwright
+undetected-chromedriver
+requests
+beautifulsoup4
+pillow
+pytesseract
+numpy
+python-dotenv
